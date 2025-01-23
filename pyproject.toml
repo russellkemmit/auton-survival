@@ -13,7 +13,6 @@ numpy = "^1.24"
 pandas = "^1.5"
 tqdm = "^4.66"
 scikit-learn = "^1.2"
-torchvision = "^0.14"
 scikit-survival = "^0.21"
 lifelines = "^0.26"
 
